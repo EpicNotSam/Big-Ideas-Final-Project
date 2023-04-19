@@ -21,3 +21,5 @@ In our project, we will determine which neighborhood in Pittrburgh has the best 
 ## Spring Garden is the Victor!
 
 <img width="608" alt="Screenshot 2023-04-19 143646" src="https://user-images.githubusercontent.com/112730487/233169385-f83bc90e-c13a-404e-b9c8-deb4afbd1826.png">
+
+Lower numbers (darker color regions) are better accoring to our metric
